@@ -41,8 +41,8 @@ Du liebst Kunst und möchtest etwas bewirken? Es gibt viele Möglichkeiten, wie 
 
 Wir arbeiten ständig an neuen Projekten und Fundraising-Aktionen, um unsere Mission voranzutreiben. Bleib auf dem Laufenden, indem du:
 
-- **Unsere Website** besuchst [Fluffcharity.de](Fluffcharity.de)
-- **Uns auf Social Media** folgst [link.fluffcharity.de](fluffcharity.de)
+- **Unsere Website** besuchst [Fluffcharity.de](https://fluffcharity.de)
+- **Uns auf Social Media** folgst [link.fluffcharity.de](https://link.fluffcharity.de)
 - **Unsere Events** und Auktionen unterstützt
 
 ---
