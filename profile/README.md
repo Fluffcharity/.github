@@ -51,7 +51,7 @@ Wir arbeiten ständig an neuen Projekten und Fundraising-Aktionen, um unsere Mis
 
 Hast du Fragen oder Ideen, wie wir gemeinsam noch mehr erreichen können? Schreib uns!
 
-- **E-Mail:** [orga@fluffcharity.org](mailto:orga@fluffcharity.org)  
+- **E-Mail:** [orga@fluffcharity.de](mailto:orga@fluffcharity.de)
 - **GitHub:** [Fluff Charity Organization](https://github.com/FluffCharity)  
 
 ---
